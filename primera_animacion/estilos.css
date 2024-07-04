@@ -33,7 +33,7 @@ body{
     height: 14rem;
     color: #8898a2;
     animation-name: letra1;
-    animation-duration: 7s;
+    animation-duration: 6s;
     transform: rotateX(180deg);
 }
 @keyframes letra2{
@@ -46,7 +46,7 @@ body{
     height: 14rem;
     color: #80bfb2;
     animation-name: letra1;
-    animation-duration: 9s;
+    animation-duration: 7s;
     transform: rotateX(180deg);
 }
 @keyframes letra3{
@@ -59,7 +59,7 @@ body{
     height: 14rem;
     color: #8898a2;
     animation-name: letra1;
-    animation-duration: 11s;
+    animation-duration: 8s;
     transform: rotateX(180deg);
 }
 @keyframes letra4{
@@ -72,7 +72,7 @@ body{
     height: 14rem;
     color: #80bfb2;
     animation-name: letra1;
-    animation-duration: 13s;
+    animation-duration: 9s;
     transform: rotateX(180deg);
 }
 @keyframes letra5{
@@ -85,7 +85,7 @@ body{
     height: 14rem;
     color: #8898a2;
     animation-name: letra1;
-    animation-duration: 15s;
+    animation-duration: 10s;
     transform: rotateX(180deg);
 }
 @keyframes letra6{
@@ -98,7 +98,7 @@ body{
     height: 14rem;
     color: #80bfb2;
     animation-name: letra1;
-    animation-duration: 17s;
+    animation-duration: 11s;
     transform: rotateX(180deg);
 }
 @keyframes letra7{
