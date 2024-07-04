@@ -1,0 +1,108 @@
+
+body{
+    background:#2c333a;
+}
+
+
+.container{
+    height: 0rem;
+    justify-content: center;
+    background-color:black;
+    display: flex;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 6rem;
+    margin: auto;
+}
+
+.letra1{
+    height: 14rem;
+    color: #80bfb2;
+    animation-name: letra1;
+    animation-duration: 5s;
+    transform: rotatex(180deg);
+    
+}
+@keyframes letra1{
+    0% {transform: rotateX(90deg);}
+    50% {transform: rotateX(0deg);}
+    100% {transform: rotatex(180deg);}
+}
+
+
+.letra2{
+    height: 14rem;
+    color: #8898a2;
+    animation-name: letra1;
+    animation-duration: 7s;
+    transform: rotateX(180deg);
+}
+@keyframes letra2{
+    0% {transform: rotateX(90deg);}
+    50% {transform: rotateX(0deg);}
+    100% {transform: rotateX(180deg);}
+}
+
+.letra3{
+    height: 14rem;
+    color: #80bfb2;
+    animation-name: letra1;
+    animation-duration: 9s;
+    transform: rotateX(180deg);
+}
+@keyframes letra3{
+    0% {transform: rotateX(80deg);}
+    50% {transform: rotateX(0deg);}
+    100% {transform: rotateX(180deg);}
+}
+
+.letra4{
+    height: 14rem;
+    color: #8898a2;
+    animation-name: letra1;
+    animation-duration: 11s;
+    transform: rotateX(180deg);
+}
+@keyframes letra4{
+    0% {transform: rotateX(80deg);}
+    50% {transform: rotateX(0deg);}
+    100% {transform: rotateX(180deg);}
+}
+
+.letra5{
+    height: 14rem;
+    color: #80bfb2;
+    animation-name: letra1;
+    animation-duration: 13s;
+    transform: rotateX(180deg);
+}
+@keyframes letra5{
+    0% {transform: rotateX(80deg);}
+    50% {transform: rotateX(0deg);}
+    100% {transform: rotateX(180deg);}
+}
+
+.letra6{
+    height: 14rem;
+    color: #8898a2;
+    animation-name: letra1;
+    animation-duration: 15s;
+    transform: rotateX(180deg);
+}
+@keyframes letra6{
+    0% {transform: rotateX(80deg);}
+    50% {transform: rotateX(0deg);}
+    100% {transform: rotateX(180deg);}
+}
+
+.letra7{
+    height: 14rem;
+    color: #80bfb2;
+    animation-name: letra1;
+    animation-duration: 17s;
+    transform: rotateX(180deg);
+}
+@keyframes letra7{
+    0% {transform: rotateX(80deg);}
+    50% {transform: rotateX(0deg);}
+    100% {transform: rotateX(180deg);}
+}
