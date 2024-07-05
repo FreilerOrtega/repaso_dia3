@@ -4,7 +4,7 @@
     background: url("Caminante/walker_frames.png");
     animation: correr 1s steps(10) infinite;
     left: 80%;
-    margin: auto;
+    
 
 }
 
