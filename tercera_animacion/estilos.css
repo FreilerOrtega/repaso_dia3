@@ -1,0 +1,16 @@
+.caminante{
+    height: 500px;
+    width: 500px;
+    background: url("Caminante/walker_frames.png");
+    margin: auto;
+    animation: correr 1s steps(10) infinite;
+    position: relative;
+    right: 0%;
+
+}
+
+@keyframes correr{
+    0%{background-position: 0px 0px;}
+    100%{background-position: 0px -5000px ;}
+   
+}
