@@ -1,0 +1,21 @@
+body{
+    background: #d71435;
+}
+
+
+.contenedor{
+    width: 52vw;
+    height: auto;
+    background-color: white;
+    margin: auto;
+}
+
+section a{
+    text-decoration: none;
+    color: rgb(4, 59, 243);
+}
+
+section p{
+    border-bottom:1vw solid #d71435;
+}
+
